@@ -43,6 +43,11 @@
     "priority": {
       "type": "boolean",
       "default": false
+    },
+    "completed": {
+      "type": "boolean",
+      "default": false,
+      "required": true
     }
   }
 }
